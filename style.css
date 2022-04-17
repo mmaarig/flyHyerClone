@@ -117,7 +117,7 @@ h1 {
     margin: 0px 0px 0px 0px;
 }
 .imgOne {
-    background-image: url("./img1.jpg");
+    background-image: url("./media/img1.jpg");
     background-repeat: no-repeat;
     width: 35%;
     height: 700px;
@@ -126,14 +126,14 @@ h1 {
 }
 .imgTwo {
 
-    background-image: url("./img2.png");
+    background-image: url("./media/img2.png");
     background-repeat: no-repeat;
     width: 35%;
     height: 700px;
     margin: 0px -52px 0px 0px;
 }
 .imgThree {
-    background-image: url("./img3.jpg");
+    background-image: url("./media/img3.jpg");
     background-repeat: no-repeat;
     width: 35%;
     height: 700px;
@@ -213,7 +213,7 @@ h1 {
     flex-direction: row;
 }
 .fManager1 {
-    background-image: url(./fmanager.jpg);
+    background-image: url("./media/fmanager.jpg");
     background-repeat: no-repeat;
     height: 713px;
     width: 50%;
@@ -221,7 +221,7 @@ h1 {
     flex-direction: row;
 }
 .fManager2 {
-    background-image: url(./fmanager2.jpg);
+    background-image: url("./media/fmanager2.jpg");
     background-repeat: no-repeat;
     height: 713px;
     width: 50%;
